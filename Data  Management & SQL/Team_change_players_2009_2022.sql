@@ -1,6 +1,5 @@
 /* Which players from 2009 are still playing in 2022 and if they changed teams how did they salary change?
 */
-USE H_Baseball;
 
 SELECT 
     sub_4.first_name,
