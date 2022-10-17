@@ -3,9 +3,7 @@
 
 # H2 Baseball Data 
 
-| File          | Description   | 
-| ------------- |:-------------:| 
-| col 3 is      | Which players from 2009 are still playing in 2022 
-and if they changed teams how did they salary change? | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      |    
+| File     | Description | 
+| :---        |    :----    
+| [Team_change_players_2009_2022](https://github.com/markboenigk/Msc_Business_Analytics_Portfolio/blob/main/Data%20%20Management%20%26%20SQL/Team_change_players_2009_2022.sql) | Which player from 2009 are still playin in 2022 and if they changed how did this imapct their salary   <br /> | 
+| | | 
