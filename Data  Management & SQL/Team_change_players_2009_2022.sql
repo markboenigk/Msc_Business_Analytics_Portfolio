@@ -11,8 +11,8 @@ FROM
         sub_2.first_name,
             sub_2.last_name,
             CASE
-                WHEN sub_2.team LIKE sub_3.team THEN 'Changed team'
-                ELSE 'Not changed team'
+                WHEN sub_2.team LIKE sub_3.team THEN 'Not changed team'
+                ELSE 'Changed team'
             END AS changed_team,
             sub_3.salary - sub_2.salary AS salary_change
     FROM
