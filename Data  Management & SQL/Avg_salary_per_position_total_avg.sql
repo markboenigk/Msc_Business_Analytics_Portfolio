@@ -1,5 +1,4 @@
 /* */
-USE H_Baseball;
 
 /* What is the average salary per position per team over the years and what is the average salary over the years in general?*/
 WITH clean_data AS (
