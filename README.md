@@ -1,4 +1,4 @@
-# Msc_Business_Analytics_Portfolio
+# Msc Business Analytics Portfolio
  
 
 | Project     | Description | Collaborators |
